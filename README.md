@@ -26,3 +26,17 @@ Sprzęt jest kolejnym istotnym artefaktem naszego projektu. Jest niezbędny aby 
 - Nasz projekt składa się także z **nadajników** i **odbiorników**. Są one niezbędne do zapewnienia działania naszego systemu automatycznej łączności (AIS) oraz GPS.
 - Nasz system wykorzystuje także **łączność radiową**, która składa się z anten oraz radiotelefonów.
 
+## Współpracujące podsystemy
+Podsystemy współpracujące są równie istotnym atrybutem naszego projektu. Wyróżniamy podsystemy nawigacyjne takie jak **GPS**, **AIS** oraz **GMDSS**.
+**System GIS** składający się z systemu monitorowania hydrograficznego oraz systemu monitorowania pogody.
+**System nadzoru ruchu pojazdów** w skład którego wchodzi system informacji dla kierowców, system sterowania ruchem drogowym oraz system monitorowania i nadzoru ruchu pojazdów.
+**System zarządzania ruchem** w terminalu kontenerowym składa się także z systemów administracyjnych takich jak system obiegu dokumentów, system raportowania i system meldunkowy.
+W skład naszego projektu wchodzi także **system monitoringu CCTV**, **system łączności radiowej** oraz **system DBSM** czyli system zarządzania bazami danych.
+
+## Infrastruktura
+Ostatnim atrybutem naszego systemu jest **infrastruktura**. Mówiąc infrastruktura mamy na myśli infrastrukturę budynków oraz infrastrukturę informatyczną sprzętu.
+- Infrastruktura budynków są to wszystkie pomieszczenia dla naszych pracowników.
+- Infrastrukturą informatyczną są pomieszczenia serwerowni oraz zaplecze informatyczne naszych pracowników.
+Każdy pracownik posiada swoją jednostkę pracy jakimi są komputery, drukarki oraz telefony służbowe. Infrastruktura informatyczna stwarza przestrzeń dla sprzętu sieciowego, serwerów i całych centrów przetwarzania danych. Obejmuje także okablowanie sieciowe budynków biurowych, które łączy ze sobą wszystkie istniejące komponenty.
+W skład naszej infrastruktury wchodzi także wiele elementów wynikających z współpracujących podsystemów, anteny, nadajniki, odbiorniki, radiotelefony oraz wiele czujników.
+
